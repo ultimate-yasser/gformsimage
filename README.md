@@ -1,5 +1,5 @@
 # Google Forms Image Provider
-A script that automatically provides you the link inside the 'og:image' meta tag in Google Forms URLs.
+A script that automatically provides the link inside the 'og:image' meta tag in Google Forms URLs.
 
 ## Requirements
 - Python 3
